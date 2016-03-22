@@ -26,10 +26,7 @@ See readmes in the folders and/or source code for the author’s license.
 
 Please refer to the author's original sites for unedited and clean versions.
 
-Glee			              Ben Woodhouse
-GLFW			              Marcus Geelnard and Camilla Berglund
 JSON			              Dave Gamble
-ManyMouse		            Ryan C. Gordon <icculus@icculus.org>
 OpenAL		              Creative Technology et al. - OpenAl headers not included in source tree
 TinyXML		              Lee Thomason
 ZLib			              Jean-loup Gailly and Mark Adler
