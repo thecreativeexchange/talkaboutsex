@@ -26,10 +26,10 @@ See readmes in the folders and/or source code for the author’s license.
 
 Please refer to the author's original sites for unedited and clean versions.
 
-*JSON                 Dave Gamble
-*OpenAL               Creative Technology et al. - OpenAl headers not included in source tree
-*TinyXML              Lee Thomason
-*ZLib                 Jean-loup Gailly and Mark Adler
-*SessionController    shrtlist.com
-*Creative Labs        OpenAL
+⋅⋅*JSON                 Dave Gamble
+⋅⋅*OpenAL               Creative Technology et al. - OpenAl headers not included in source tree
+⋅⋅*TinyXML              Lee Thomason
+⋅⋅*ZLib                 Jean-loup Gailly and Mark Adler
+⋅⋅*SessionController    shrtlist.com
+⋅⋅*Creative Labs        OpenAL
 
