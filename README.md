@@ -4,3 +4,33 @@ Talk About Sex is a multiplayer mobile phone game designed for young people to f
 
 Talk About Sex was created by Matt Wood, Gavin Wood, and Madeline Balaam at Open Lab, Newcastle University.
 For more information please visit the following websites or contact m.wood8@newcastle.ac.uk.
+
+
+
+Licenses
+All my software is provided 'as-is', without any express or implied warranty.
+In no event should the author be held liable for any damages arising from the use of this software.
+
+In this folder you can find Third Party software. Please note I have added my own library projects to bring this code into my build and these are therefore edited versions of the software. 
+
+
+
+Third Party software:
+All Third Party software is provided 'as-is', without any express or implied warranty.
+
+In no event should the individual authors of this software be held liable for any damages arising from the use of this software.
+
+See readmes in the folders and/or source code for the author’s license.
+
+Please refer to the author's original sites for unedited and clean versions.
+
+Glee			              Ben Woodhouse
+GLFW			              Marcus Geelnard and Camilla Berglund
+JSON			              Dave Gamble
+ManyMouse		            Ryan C. Gordon <icculus@icculus.org>
+OpenAL		              Creative Technology et al. - OpenAl headers not included in source tree
+TinyXML		              Lee Thomason
+ZLib			              Jean-loup Gailly and Mark Adler
+SessionController       shrtlist.com
+Creative Labs	        	OpenAL
+
