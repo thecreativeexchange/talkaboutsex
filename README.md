@@ -7,7 +7,8 @@ For more information please visit the following websites or contact m.wood8@newc
 
 
 
-Licenses
+## Licenses
+
 All my software is provided 'as-is', without any express or implied warranty.
 In no event should the author be held liable for any damages arising from the use of this software.
 
@@ -15,7 +16,8 @@ In this folder you can find Third Party software. Please note I have added my ow
 
 
 
-Third Party software:
+## Third Party software:
+
 All Third Party software is provided 'as-is', without any express or implied warranty.
 
 In no event should the individual authors of this software be held liable for any damages arising from the use of this software.
