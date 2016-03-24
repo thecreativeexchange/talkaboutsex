@@ -32,4 +32,4 @@ Please refer to the author's original sites for unedited and clean versions.
 4. ZLib                 Jean-loup Gailly and Mark Adler
 5. SessionController    shrtlist.com
 6. Creative Labs        OpenAL
-
+7. GameFramework        An open source GameFramework by Gavin Wood. Used for low level rendering in OpenGLES.
