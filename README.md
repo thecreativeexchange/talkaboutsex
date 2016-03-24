@@ -26,10 +26,10 @@ See readmes in the folders and/or source code for the author’s license.
 
 Please refer to the author's original sites for unedited and clean versions.
 
-1. JSON                 Dave Gamble
-2. OpenAL               Creative Technology et al. - OpenAl headers not included in source tree
-3. TinyXML              Lee Thomason
-4. ZLib                 Jean-loup Gailly and Mark Adler
-5. SessionController    shrtlist.com
-6. Creative Labs        OpenAL
-7. GameFramework        An open source game framework by Gavin Wood. Used for low level rendering in OpenGLES.
+1. JSON -                Dave Gamble
+2. OpenAL -               Creative Technology et al. - OpenAl headers not included in source tree
+3. TinyXML -              Lee Thomason
+4. ZLib -                 Jean-loup Gailly and Mark Adler
+5. SessionController -    shrtlist.com
+6. Creative Labs -        OpenAL
+7. GameFramework -        An open source game framework by Gavin Wood. Used for low level rendering in OpenGLES.
