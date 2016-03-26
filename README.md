@@ -31,5 +31,4 @@ Please refer to the author's original sites for unedited and clean versions.
 3. TinyXML -              Lee Thomason
 4. ZLib -                 Jean-loup Gailly and Mark Adler
 5. SessionController -    shrtlist.com
-6. Creative Labs -        OpenAL
-7. GameFramework -        An open source game framework by Gavin Wood. Used for low level rendering in OpenGLES.
+6. GameFramework -        An open source game framework by Gavin Wood. Used for low level rendering in OpenGLES.
